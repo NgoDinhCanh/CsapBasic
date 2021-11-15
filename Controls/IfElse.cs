@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Controls
 {
-    class Program
+    class IfElse
     {
         static void Main(string[] args)
         {
