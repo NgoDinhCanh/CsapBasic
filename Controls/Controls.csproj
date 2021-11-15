@@ -58,9 +58,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="TernaryOperater.cs" />
     <None Include="IfElse.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SwitchCase.cs" />
+    <None Include="SwitchCase.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
