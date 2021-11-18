@@ -45,7 +45,8 @@
   <ItemGroup>
     <None Include="Program.cs" />
     <None Include="DoWhile.cs" />
-    <Compile Include="NestedLoops.cs" />
+    <Compile Include="BreakContinue.cs" />
+    <None Include="NestedLoops.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <None Include="WhileLoop.cs" />
   </ItemGroup>
