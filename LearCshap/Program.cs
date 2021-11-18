@@ -20,11 +20,33 @@ namespace LearCshap
              */
             int a, b, c;
             int[] number = new int[200];
-            string[] friends = new string[] {"Thanh","Thương","Khoa","Dat","Giang","Dien","Man"};
+            string[] friends = new string[] {"Thanh", "Thương", "Khoa", "Dat", "Giang", "Dien", "Man"};
+            // Cu phap thay doi ten trong mang 
+            friends[2] = "Bieu";
+            //
             string[] cars = new string[100];
-            Console.WriteLine("Do dai mang:" + friends.Length);
-            Console.WriteLine(friends[3]);
+            //Console.WriteLine("Do dai mang:" + friends.Length);
+            //Console.WriteLine(friends[2]);
+            Console.WriteLine("=========== DANH SACH ===========");
+            for (int i = 0; i < friends.Length; i++)
+            {
+                Console.WriteLine(friends[i]);
+            }
 
+            Console.WriteLine("=========== DANH SACH ===========");
+            foreach (var friend in friends)
+            {
+                Console.WriteLine(friend);
+            }
+
+            // Sắp xếp mảng 
+            Console.WriteLine("=========== DANH SACH SAU SAP XEP ===========");
+            Array.Sort(friends);
+            foreach (var friend in friends)
+            {
+                Console.WriteLine(friend);
+            }
         }
     }
 }
+
