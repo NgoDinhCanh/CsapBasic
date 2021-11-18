@@ -43,10 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="RefModifier.cs" />
     <None Include="Program.cs" />
     <None Include="DefaulParams.cs" />
     <None Include="Overloading.cs" />
-    <Compile Include="OutParameter.cs" />
+    <None Include="OutParameter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
