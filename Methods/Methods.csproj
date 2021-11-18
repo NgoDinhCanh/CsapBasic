@@ -43,12 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Recursion.cs" />
     <None Include="RefModifier.cs" />
     <None Include="Program.cs" />
     <None Include="DefaulParams.cs" />
     <None Include="Overloading.cs" />
     <None Include="OutParameter.cs" />
-    <Compile Include="ParamsModifier.cs" />
+    <None Include="ParamsModifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
