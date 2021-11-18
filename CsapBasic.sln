@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controls", "Controls\Contro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLoopControls", "LearnLoopControls\LearnLoopControls.csproj", "{BC5A3EB2-EBBD-4951-93F0-116B2E1A0D60}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearCshap", "LearCshap\LearCshap.csproj", "{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{BC5A3EB2-EBBD-4951-93F0-116B2E1A0D60}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5A3EB2-EBBD-4951-93F0-116B2E1A0D60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5A3EB2-EBBD-4951-93F0-116B2E1A0D60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
