@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnLoopControls", "LearnL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearCshap", "LearCshap\LearCshap.csproj", "{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array", "Array\Array.csproj", "{A48EE047-813B-4EEF-81EB-A019DF69AB3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B60BD768-2E39-416D-98A5-5A91F6EE4DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A48EE047-813B-4EEF-81EB-A019DF69AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A48EE047-813B-4EEF-81EB-A019DF69AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A48EE047-813B-4EEF-81EB-A019DF69AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A48EE047-813B-4EEF-81EB-A019DF69AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
