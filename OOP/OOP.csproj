@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{02462599-BE10-46BC-98AA-EDCB0011425F}</ProjectGuid>
+    <ProjectGuid>{164ACA88-3C66-4561-9819-17A0C6EB3F3E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Methods</RootNamespace>
-    <AssemblyName>Methods</AssemblyName>
+    <RootNamespace>OOP</RootNamespace>
+    <AssemblyName>OOP</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Recursion.cs" />
-    <Compile Include="VarKeyWorks.cs" />
-    <None Include="RefModifier.cs" />
+    <None Include="Cat.cs" />
     <None Include="Program.cs" />
-    <None Include="DefaulParams.cs" />
-    <None Include="Overloading.cs" />
-    <None Include="OutParameter.cs" />
-    <None Include="ParamsModifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SavingAcc.cs" />
+    <Compile Include="Static.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
